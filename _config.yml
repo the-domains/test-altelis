@@ -1,19 +1,4 @@
-name: Test Altelis
-favicon: null
-layout_spectrum: 0.8142538792453706
 typography_spectrum: 0.7587062062229961
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.21348658902570605
   saturation: 0.296082247979939
   rhythmicContrast: 0.4089528440963477
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8142538792453706
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Test Altelis
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Altelis
 purpose: []
