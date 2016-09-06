@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: essai
+    id: 3bb14369-2474-4ea7-b279-df748df3b5be
+    type: content
 favicon: null
 title: Altelis
 description: Digital Marketing for Hotels
